@@ -1,7 +1,7 @@
 <div align="left">
   <h1>Luiz Vitor Vieira de Mattos</h1>
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNjN3NWxjYjF3cGYzYmZ6bHB6b2dpczBrdGlmd3Fyb3ppODNuZmM1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ms3yqSf67KQjnXm6kN/giphy.gif" width="180" align="right">
-  <h5>Cientista de Dados em formação pela UFRJ.</h5>
+  <h3>Cientista de Dados em formação pela UFRJ.</h3>
   <h5>Sou autodidata, então busco aprender o tempo todo. Para isso, sempre faço projetos do que aprendo, pois acredito que "O que eu não posso criar, eu não entendo." - Richard Feynman.</h5>
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"/>
