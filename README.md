@@ -53,7 +53,7 @@
   <a href="https://www.linkedin.com/in/luiz-vitor-vieira/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://www.chess.com/member/luizvvm" target="_blank"> <img src="https://img.shields.io/badge/Chess.com-779556?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com"/>
+  <a href="https://www.chess.com/member/rotiv_ziul" target="_blank"> <img src="https://img.shields.io/badge/Chess.com-779556?style=for-the-badge&logo=chessdotcom&logoColor=white" alt="Chess.com"/>
   </a>
   <a href="mailto:luizvvm@dcc.ufrj.br" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
