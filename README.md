@@ -30,21 +30,11 @@
 
 - ♟️ Além do código, sou jogador profissional de **xadrez**, meu principal hobby.
 
-<div align="center"> 
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/luizvvm">
-          <img src="https://github-readme-stats.vercel.app/api?username=luizvvm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/luizvvm">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizvvm&layout=compact&langs_count=7&theme=tokyonight"/>
-        </a>
-      </td>
-    </tr>
-  </table>
+<div align="center">
+  <a href="https://github.com/luizvvm">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luizvvm&theme=gotham&hide_border=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizvvm&layout=compact&langs_count=7&theme=gotham"/>
+  </a>
 </div>
 
 <br>
