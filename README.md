@@ -31,17 +31,16 @@
 - ♟️ Além do código, sou jogador profissional de **xadrez**, meu principal hobby.
 
 <div align="center">
-  <a href="https://github.com/luizvvm">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luizvvm&theme=gotham&hide_border=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizvvm&layout=compact&langs_count=7&theme=gotham"/>
-  </a>
-  <br><br>
-  <a href="https://leetcode.com/luizvvm/">
-        <img height="250em" src="https://leetcard.jacoblin.cool/luizvvm?theme=transparent&font=Inder&ext=heatmap" alt="Estatísticas do LeetCode"/>
-  </a>
-  <a>
-<img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" />
-<img src="./kaggle-plates/Competitions/white.svg" />
+  <a href="https://github.com/luizvvm">
+    <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=luizvvm&theme=gotham&hide_border=false"/>
+    <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizvvm&layout=compact&langs_count=7&theme=gotham"/>
+  </a>
+  <br>
+  <a href="https://github.com/luizvvm">
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=luizvvm&show_rank=true&rank_icon=github&theme=gotham" alt="Estatísticas do GitHub de Luiz V." />
+  </a>
+  <a href="https://leetcode.com/luizvvm/">
+    <img height="180" src="https://leetcard.jacoblin.cool/luizvvm?theme=transparent&font=Inder&ext=heatmap" alt="Estatísticas do LeetCode"/>
   </a>
 </div>
 
