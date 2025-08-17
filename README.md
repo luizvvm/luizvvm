@@ -36,11 +36,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizvvm&layout=compact&langs_count=7&theme=gotham"/>
   </a>
   <br><br>
-    <a href="https://www.kaggle.com/luizvvm">
-    <img height="180em" src="https://kaggle-stats.vercel.app/api?username=luizvvm&theme=gotham" alt="Estatísticas do Kaggle" />
-  </a>
-  <a href="https://leetcode.com/luizvvm">
-    <img height="180em" src="https://leetcard.jacoblin.dev/luizvvm?theme=gotham&font=Titillium%20Web&ext=heatmap" alt="Estatísticas do LeetCode"/>
+  <a href="https://leetcode.com/luizvvm/">
+        <img height="250em" src="https://leetcard.jacoblin.cool/luizvvm?theme=transparent&font=Inder&ext=heatmap" alt="Estatísticas do LeetCode"/>
   </a>
 </div>
 
