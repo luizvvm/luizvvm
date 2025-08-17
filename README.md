@@ -36,13 +36,51 @@
     <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizvvm&layout=compact&langs_count=7&theme=gotham"/>
   </a>
   <br>
-  <a href="https://github.com/luizvvm">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=luizvvm&show_rank=true&rank_icon=github&theme=gotham" alt="Estatísticas do GitHub de Luiz V." />
-  </a>
-  <a href="https://leetcode.com/luizvvm/">
-    <img height="180" src="https://leetcard.jacoblin.cool/luizvvm?theme=transparent&font=Inder&ext=heatmap" alt="Estatísticas do LeetCode"/>
-  </a>
 </div>
+
+
+<h3>Estudos</h3>
+<p>
+Acredito que a combinação de uma base teórica sólida com a prática constante é o que constrói um bom desenvolvedor. Abaixo estão algumas das principais disciplinas que já concluí, ao lado da minha prática em resolução de problemas no LeetCode.
+</p>
+<div align="center">
+<table>
+  <tr>
+    <td valign="top">
+      <h4>Matérias Relevantes Concluídas:</h4>
+      <table>
+        <tr>
+          <td valign="top">
+            <ul>
+              <li>Computer Programming I & II</li>
+              <li>Data Organization I</li>
+              <li>Discrete Mathematics</li>
+              <li>Object-Oriented Prog.</li>
+              <li>Data Structures</li>
+              <li>Calculus I & II</li>
+              <li>Linear Algebra</li>
+            </ul>
+          </td>
+          <td valign="top">
+            <ul>
+              <li>Software Processes</li>
+              <li>Numerical Computation</li>
+              <li>Computer Systems Found.</li>
+              <li>Systems Modeling</li>
+            </ul>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td valign="top">
+      <a href="https://leetcode.com/luizvvm/">
+        <img height="280" src="https://leetcard.jacoblin.cool/luizvvm?theme=transparent&font=Inder&ext=heatmap" alt="Estatísticas do LeetCode"/>
+      </a>
+    </td>
+  </tr>
+</table>
+</div>
+
 
 <br>
 
