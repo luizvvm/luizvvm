@@ -39,6 +39,10 @@
   <a href="https://leetcode.com/luizvvm/">
         <img height="250em" src="https://leetcard.jacoblin.cool/luizvvm?theme=transparent&font=Inder&ext=heatmap" alt="Estatísticas do LeetCode"/>
   </a>
+  <a>
+<img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" />
+<img src="./kaggle-plates/Competitions/white.svg" />
+  </a>
 </div>
 
 <br>
