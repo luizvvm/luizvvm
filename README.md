@@ -31,21 +31,17 @@
 - ♟️ Além do código, sou jogador profissional de **xadrez**, meu principal hobby.
 
 <div align="center">
-  <a href="https://github.com/luizvvm">
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luizvvm&theme=gotham&hide_border=false"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizvvm&layout=compact&langs_count=7&theme=gotham"/>
-    </a>
-  <br><br>
+  <a href="https://github.com/luizvvm">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=luizvvm&theme=gotham&hide_border=false"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizvvm&layout=compact&langs_count=7&theme=gotham"/>
+  </a>
+  <br><br>
     <a href="https://www.kaggle.com/luizvvm">
-    <img height="180em" src="https://kaggle-stats.vercel.app/api?username=SEU_USERNAME_NO_KAGGLE&theme=gotham" alt="Estatísticas do Kaggle" />
+    <img height="180em" src="https://kaggle-stats.vercel.app/api?username=luizvvm&theme=gotham" alt="Estatísticas do Kaggle" />
   </a>
   <a href="https://leetcode.com/luizvvm">
-    <img height="180em" src="https://leetcard.jacoblin.dev/SEU_USERNAME_NO_LEETCODE?theme=gotham&font=Titillium%20Web&ext=heatmap" alt="Estatísticas do LeetCode"/>
+    <img height="180em" src="https://leetcard.jacoblin.dev/luizvvm?theme=gotham&font=Titillium%20Web&ext=heatmap" alt="Estatísticas do LeetCode"/>
   </a>
-</div>
-
-<div>
-  <img src="https://kaggle-stats.vercel.app/api?username=luizvvm&theme=gotham" alt="Estatísticas do Kaggle" />
 </div>
 
 <br>
