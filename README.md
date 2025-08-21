@@ -74,7 +74,7 @@ Acredito que a combinação de uma base teórica sólida com a prática constant
     </td>
     <td valign="top">
       <a href="https://leetcode.com/luizvvm/">
-        <img height="280" src="https://leetcard.jacoblin.cool/luizvvm?theme=transparent&font=Inder&ext=heatmap" alt="Estatísticas do LeetCode"/>
+        <img height="280" src="https://leetcard.jacoblin.cool/luizvvm?theme=light&font=Molle&ext=heatmap" alt="Estatísticas do LeetCode"/>
       </a>
     </td>
   </tr>
