@@ -73,12 +73,13 @@ Acredito que a combinação de uma base teórica sólida com a prática constant
       </table>
     </td>
     <td valign="top">
-      
+      <a href="https://leetcode.com/luizvvm/">
+        <img height="280" src="https://leetcard.jacoblin.cool/luizvvm?theme=light&font=Molle&ext=heatmap" alt="Estatísticas do LeetCode"/>
+      </a>
     </td>
   </tr>
 </table>
 </div>
-[![Estatísticas do Codewars de luizvvm](https://codewars-stats-ignacio-cuadra.vercel.app/?username=luizvvm&theme=dark)](https://www.codewars.com/users/luizvvm)
 
 <br>
 
